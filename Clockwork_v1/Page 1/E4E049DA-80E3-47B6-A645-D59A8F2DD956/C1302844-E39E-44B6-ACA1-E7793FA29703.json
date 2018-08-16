@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "C1302844-E39E-44B6-ACA1-E7793FA29703",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5D6B0BA0-FAB5-437E-8751-7FDB0E67C361",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "882F6DB0-337D-431D-B3CA-07007E67BE10",
+    "height": 200,
+    "width": 190,
+    "x": 0,
+    "y": 250
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "pic/pic_appcard_red",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A659E481-27A2-47E9-9961-6424260E2E0F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9C84A129-40CB-439A-AB60-581AD9FAFB48",
+  "verticalSpacing": 0
+}

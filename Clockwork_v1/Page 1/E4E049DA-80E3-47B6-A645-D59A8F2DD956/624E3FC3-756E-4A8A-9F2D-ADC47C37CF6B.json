@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "624E3FC3-756E-4A8A-9F2D-ADC47C37CF6B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8B7EB79A-C687-4943-BE37-D062EA8C0468",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EC145740-F0BF-4ECD-98DB-85C4E232319A",
+    "height": 20,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Android_Statusbar_Black",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "C3111E1D-8843-463A-B1C1-E22B67F66714",
+      "opacity": 0.800000011920929
+    },
+    "do_objectID": "2EE3BF54-1C81-45B1-806E-111FF7F3AFD9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7F13854E-BF35-4DCE-A791-B8DEF7F56ECC",
+  "verticalSpacing": 0
+}

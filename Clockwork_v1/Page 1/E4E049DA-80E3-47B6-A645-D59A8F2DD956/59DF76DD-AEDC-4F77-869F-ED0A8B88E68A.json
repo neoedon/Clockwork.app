@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "59DF76DD-AEDC-4F77-869F-ED0A8B88E68A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B8C9795A-6275-422B-B0F8-8267A67D200D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0EDE67F8-8CC8-4C47-A0DA-5C1065A70CA7",
+    "height": 32,
+    "width": 32,
+    "x": 35,
+    "y": 543
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icons/icon_32/icon_app_wechat",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "361FAC56-2B76-42F5-B245-4475192081F1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A3EE5342-6BAD-410D-9DFD-0F8E7637F001",
+  "verticalSpacing": 0
+}

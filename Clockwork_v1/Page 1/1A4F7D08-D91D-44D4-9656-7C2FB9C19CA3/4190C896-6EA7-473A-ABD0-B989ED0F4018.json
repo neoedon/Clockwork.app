@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "4190C896-6EA7-473A-ABD0-B989ED0F4018",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F2B27C6E-B2D4-409A-AFDF-A476EB3F61B9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F4C64E94-80FB-40A2-AE18-C06B799D7D8B",
+    "height": 40,
+    "width": 40,
+    "x": 20,
+    "y": 312
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icons/icon_40/icon_servicesel_qqmusic",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "305EC9C8-565C-453F-8876-B989D4BEBA11",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "012FDD2F-8207-4AC9-A171-4970C765DEB7",
+  "verticalSpacing": 0
+}

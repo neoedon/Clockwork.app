@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "B7B7CE92-3BA2-4404-8CA0-A7E9EEFC0C22",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B7540450-0ECE-4431-8811-1E4ACB8651C2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0F74F053-D28F-47D5-BC33-25E325568F56",
+    "height": 28,
+    "width": 44,
+    "x": 286,
+    "y": 280
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C6C29D32-848D-40DB-B548-B77571EE2181"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "30AD776E-C0FA-4626-AD29-1C7D5B464F3D"
+    }
+  ],
+  "name": "homebox_ac",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "35BECFE1-1433-4A58-A6DF-952906A53EE6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

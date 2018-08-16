@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "8B571A42-4DB2-4405-A7CC-276F80EE4DD2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "08E4FAA6-6997-479B-9787-EEEFAA2A3A8C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "70EAA3FC-F037-467B-A95F-0FE1C1DE5B01",
+    "height": 32,
+    "width": 32,
+    "x": 36,
+    "y": 111
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icons/icon_32/icon_app_neteasemus",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B0234807-DBFF-4C49-B5DD-0B795727C76D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F6C292F2-ADC0-4EB4-9339-5AB1F5862273",
+  "verticalSpacing": 0
+}

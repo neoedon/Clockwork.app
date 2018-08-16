@@ -1,0 +1,109 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "276D242E-D517-4810-BA3C-479EE1C2A943",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "55970449-4918-47CA-BCCF-BF3E84298E2F",
+    "height": 6.587047023917357,
+    "width": 38,
+    "x": 1,
+    "y": 1.412952976083034
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "C2208F02-9113-4B55-891A-9A2CF8698B0D"
+    },
+    {
+      "class": "shapePath",
+      "id": "B4FF9C7F-643A-4786-B52D-55998A0432B1"
+    },
+    {
+      "class": "shapePath",
+      "id": "8CAB9E0C-3C58-4141-ADCD-3A18E871B711"
+    },
+    {
+      "class": "shapePath",
+      "id": "BF491885-C1CE-4B94-8289-CE7E64D0EC66"
+    },
+    {
+      "class": "shapePath",
+      "id": "3A737D12-6BA9-42CA-B3CA-DA9A3051C979"
+    }
+  ],
+  "name": "Combined Shape",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 1,
+        "thickness": 1
+      }
+    ],
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "C6C8401E-665D-4AAC-AD76-CCC51292B451",
+      "opacity": 0.32
+    },
+    "do_objectID": "CE376EF7-3BAF-440C-B898-FDA9058D7B72",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8952221513605442,
+          "green": 0.8743518173497822,
+          "red": 0.8669462149588667
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "1C243084-5EF0-46F8-833C-929624C009D9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1AC23445-8280-4A5A-A1DB-3094BCDEEFB2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B2884BD4-DC2F-4C4D-A925-6131BC664407",
+    "height": 200,
+    "width": 190,
+    "x": 0,
+    "y": 420
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "pic/pic_appcard_gre",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3B95CBC1-64C5-43FE-A413-1B48A974562F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E8ED0D3A-8D80-42EC-8076-FB7B63ADF282",
+  "verticalSpacing": 0
+}

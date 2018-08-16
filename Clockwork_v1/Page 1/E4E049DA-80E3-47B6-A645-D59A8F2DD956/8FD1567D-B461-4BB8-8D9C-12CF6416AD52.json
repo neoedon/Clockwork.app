@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "8FD1567D-B461-4BB8-8D9C-12CF6416AD52",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DA973F31-D7F8-42E8-9B17-A3DE5875FE3B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2C0EC0B6-A257-4464-BC9A-58566A090B8C",
+    "height": 200,
+    "width": 190,
+    "x": 170,
+    "y": 250
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "pic/pic_appcard_blu",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0DC34492-985F-4AC5-B686-431C2A991625",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A1DE90B9-167C-467C-9031-30B822C106C6",
+  "verticalSpacing": 0
+}

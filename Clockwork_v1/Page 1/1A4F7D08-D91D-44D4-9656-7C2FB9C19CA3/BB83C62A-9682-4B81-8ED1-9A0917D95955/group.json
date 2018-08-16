@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "BB83C62A-9682-4B81-8ED1-9A0917D95955",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "49723A4A-819D-44AA-AD80-CBC338DF6276",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3EDA4385-F3FF-4D38-91F6-3501572A5BFC",
+    "height": 40,
+    "width": 90,
+    "x": 20,
+    "y": 496
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E05C7658-981B-4BA1-812B-51B0EBD61C7D"
+    },
+    {
+      "class": "text",
+      "id": "4B932FC6-5A85-4EE9-A964-8005E95A430E"
+    }
+  ],
+  "name": "dial",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "898F7A62-434E-4554-B114-B6D82095D566",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

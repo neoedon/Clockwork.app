@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "7AC31F9D-6F67-4DD9-89CE-BDE2F84BBB1C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EF3CA24B-A9C4-4F8D-AA4F-8E516472D840",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DAD055CC-C852-4C4F-BCFB-DB01C63ACBD6",
+    "height": 20,
+    "width": 20,
+    "x": 10,
+    "y": 4
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icons/icon_20/icon_homebox_fabhome",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "084C1AA7-3E50-4F1D-BF08-4D24A5A560C6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F4B5B945-26B1-430F-9108-0303C457393B",
+  "verticalSpacing": 0
+}
